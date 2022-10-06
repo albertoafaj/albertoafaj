@@ -1,4 +1,4 @@
-### Olá! Meu nome é Alberto Araújo!
+### Olá! Meu nome é Alberto Araújo!👋
 
 <a href="https://www.linkedin.com/in/alberto-araújo-996a01186/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,8 +11,8 @@
 <a href="mailto:albertoafaj@hotmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:albertoafaj@gmail.com" alt="E-mail">
 </a>
-
-Graduando em Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, comprometido, organizado e que gosta de trabalhar em equipe. 
+</br>
+Graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, comprometido, organizado e que gosta de trabalhar em equipe. 
 
 Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e React.
 
@@ -43,7 +43,7 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
-**Outras Tecnologias**
+**Outras Ferramentas / Bibliotecas**
 [![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Babel](https://img.shields.io/badge/-Babel-323330?style=flat-square&logo=Babel&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=Webpack&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
@@ -53,7 +53,7 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
-**Sistemas Operacionais**
+**OS**
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Linux (Kubuntu)](https://img.shields.io/badge/-Linux%20(Kubuntu)-0078D6?style=flat-square&logo=Kubuntu&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
