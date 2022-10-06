@@ -1,7 +1,7 @@
-### Olá! Meu nomne é Alberto Araújo!
+### Olá! Meu nome é Alberto Araújo!
 
 <a href="https://www.linkedin.com/in/alberto-araújo-996a01186/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://twitter.com/Alberto21922694" target="_blank">
