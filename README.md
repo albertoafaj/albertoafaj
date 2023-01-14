@@ -14,7 +14,7 @@
 </br>
 Graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, comprometido, organizado e que gosta de trabalhar em equipe. 
 
-Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e React.
+Atualmente desenvolvo meus projetos utilizando HTML, CSS, JavaScript, Vue e React no front-End e o Node / Express no Back-End. 
 
 ## Sobre mim
 
@@ -26,7 +26,9 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
