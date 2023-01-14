@@ -18,8 +18,8 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 
 ## Sobre mim
 
-- Desenvolvedor Front-end.
-- Graduado em Análise e Desenvolvimento de Sistemas | 2019 - 2023.
+- Desenvolvedor Full Stack.
+- Graduando em Análise e Desenvolvimento de Sistemas | 2019 - 2023.
 - Bacharel em Administração de Empresas | 2002 - 2006.
 
 ## Linguagens e tecnologias utilizadas atualmente
@@ -39,6 +39,14 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+[![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+
+**Back-end**
+[![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+[![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+
+**Testes**
+[![Jest](https://img.shields.io/badge/-jest-15C213?style=flat-square&logo=jest&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
@@ -47,8 +55,6 @@ Atualmente desenvolvimento de projetos web utilizando HTML, CSS, JavaScript e Re
 [![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Babel](https://img.shields.io/badge/-Babel-323330?style=flat-square&logo=Babel&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=Webpack&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
-[![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
-[![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
