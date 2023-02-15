@@ -14,9 +14,7 @@
 </br>
 Graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, comprometido, organizado e que gosta de trabalhar em equipe. 
 
-Atualmente desenvolvo meus projetos utilizando HTML, CSS, JavaScript, Vue e React no front-End. No Back-End utilizo o Node / Express / Postgresql no e para trazer a seguranças dos testes unitários e de integração para toda a aplicação utilizo o Jest e Supertest.
-
-Para tra
+Atualmente desenvolvo meus projetos utilizando HTML, CSS, JavaScript, Vue e React no front-End. No Back-End utilizo o Node / Express / Postgresql para criação de serviços web e de banco de dados. Para trazer a seguranças dos testes unitários e de integração para toda a aplicação utilizo o Jest e Supertest.
 
 ## Sobre mim
 
