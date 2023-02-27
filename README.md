@@ -41,11 +41,13 @@ Atualmente desenvolvo meus projetos utilizando HTML, CSS, JavaScript, Vue e Reac
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+[![Redux](https://img.shields.io/badge/-Redux-f7f7f7?style=flat-square&logo=redux&logoColor=7248B6&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
 **Back-end**
 [![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 [![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
+[![Postgresql](https://img.shields.io/badge/-PostgreSQL-f7f7f7?style=flat-square&logo=postgresql&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
 
 **Testes**
 [![Jest](https://img.shields.io/badge/-jest-15C213?style=flat-square&logo=jest&link=https://github.com/albertoafaj/)](https://github.com/albertoafaj/)
